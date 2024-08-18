@@ -23,8 +23,3 @@ jobs:
       # Выполняем команду tree в текущей директории
       - name: Print project tree
         run: tree .
-<<<<<<< HEAD
- 
-=======
- 
->>>>>>> 12a655cab52b1e69e50c9e8683c22ea05e18b502
